@@ -4,7 +4,7 @@
 
 Contact: [Telegram](https://t.me/officialchetanjoshi)
 
-A stable telegram bot to get restricted messages with custom thumbnail support , made by Mahesh Chauhan. 
+A stable telegram bot to get restricted messages with custom thumbnail support 
 
 - works for both public and private chats
 - Custom thumbnail support for Pvt medias
